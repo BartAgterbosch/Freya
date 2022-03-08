@@ -1,4 +1,4 @@
-# AI_Chatbot-GPT-3-
+# AI_Chatbot-GPT-3
 A GPT-3 AI chatbot with language detect and text-to-speech written in Python <br>
 
 ## Requirements
