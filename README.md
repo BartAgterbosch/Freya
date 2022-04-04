@@ -19,7 +19,7 @@ playsound==1.2.2 <br>
 ## Setup
 Create an account on beta.openai.com, and copy the API key under "View API keys", "secret key". <br>
 Paste that into the freya_key.dat file which should be located in the same location as the Freya.exe file. <br>
-If that file does not exist and/or cannot be found, it will be created for you. <br>
+If that file does not exist and/or cannot be found, it will be created for you, after which you need to enter the key into the file. <br>
  <br>
 When installing googletrans and playsound, make sure to use the exact versions as listed in the requirements, as the newer versions are pretty much broken for half the functionality it seems. <br>
  <br>
