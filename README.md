@@ -1,6 +1,8 @@
 # Freya
 ## A GPT-3 AI chatbot with speech-to-text and text-to-speech written in Python <br>
-
+<br>
+<br>
+<br>
 ## Requirements when building from scratch
 openai <br>
 gtts <br>
