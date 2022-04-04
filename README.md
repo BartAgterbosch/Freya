@@ -8,6 +8,11 @@ speech_recognition <br>
 googletrans==4.0.0rc1 <br>
 playsound==1.2.2 <br>
  <br>
+ 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/BartAgterbosch/Freya-GPT-3-AI-Chatbot-/main/Freya/img/Freya.png" />
+</p>
+ 
 ## Setup
 Create an account on beta.openai.com, and copy the API key under "View API keys", "secret key". <br>
 Paste that into the freya_key.dat file which should be located in the same location as the Freya.exe file. <br>
