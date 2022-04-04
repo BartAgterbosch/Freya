@@ -31,3 +31,4 @@ To exit the program, simply ctrl+c out of the program, or close the console wind
 <br>
 ## Download
 Release: [Download V3.0.0](https://github.com/BartAgterbosch/Freya-GPT-3-AI-Chatbot-/releases/download/v3.0.0/Freya.exe)
+Note: You need to get your own api key from beta.openai.com, you can train your own model, but it works fairly good out of the box.
