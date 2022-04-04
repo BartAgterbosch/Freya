@@ -23,3 +23,7 @@ When installing googletrans and playsound, make sure to use the exact versions a
 After listening for user input, Freya will parse that to text, and will query openai, the bot will detect whatever language the reponse of the AI is, and convert that to speech. <br>
  <br>
 To exit the console, simply ctrl+c out of the program, or close the console window.
+<br>
+<br>
+## Download
+Release: [Download V3.0.0](https://github.com/BartAgterbosch/Freya-GPT-3-AI-Chatbot-/releases/download/v3.0.0/Freya.exe)
