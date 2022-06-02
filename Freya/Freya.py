@@ -12,7 +12,7 @@ from time import sleep
 
 def get_key():
     if (path("freya_key.dat").exists()):
-        key = path("freya_key.dat").read_text().lstrip().lstrip(" ").split(" ")[0]
+        key = path("freya_key.dat").read_text().lstrip().lstrip(" ").split(" ")[0].rstrip("\n")
         if (len(key) > 30):
             return key
         else:
